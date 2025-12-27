@@ -1,0 +1,37 @@
+{
+	"dependencies" : 
+	[
+		"materials/workshop/3624751245/effects/waterwaves.json",
+		"shaders/workshop/3624751245/effects/waterwaves.frag",
+		"shaders/workshop/3624751245/effects/waterwaves.vert"
+	],
+	"description" : "ui_editor_effect_water_waves_description",
+	"gizmos" : 
+	[
+		{
+			"condition" : 
+			{
+				"PERSPECTIVE" : 1
+			},
+			"type" : "EffectPerspectiveUV",
+			"vars" : 
+			{
+				"p0" : "point0",
+				"p1" : "point1",
+				"p2" : "point2",
+				"p3" : "point3"
+			}
+		}
+	],
+	"group" : "animate",
+	"name" : "ui_editor_effect_water_waves_title",
+	"passes" : 
+	[
+		{
+			"material" : "materials/workshop/3624751245/effects/waterwaves.json"
+		}
+	],
+	"preview" : "preview/project.json",
+	"replacementkey" : "waterwaves",
+	"version" : 1
+}

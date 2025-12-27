@@ -1,0 +1,18 @@
+{
+	"dependencies" : 
+	[
+		"materials/workshop/3561955336/effects/3333.json",
+		"shaders/workshop/3561955336/effects/3333.frag",
+		"shaders/workshop/3561955336/effects/3333.vert"
+	],
+	"group" : "localeffects",
+	"name" : "3333",
+	"passes" : 
+	[
+		{
+			"material" : "materials/workshop/3561955336/effects/3333.json"
+		}
+	],
+	"replacementkey" : "3333",
+	"version" : 1
+}

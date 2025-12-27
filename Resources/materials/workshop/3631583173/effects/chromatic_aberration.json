@@ -1,0 +1,12 @@
+{
+	"passes" : 
+	[
+		{
+			"blending" : "normal",
+			"cullmode" : "nocull",
+			"depthtest" : "disabled",
+			"depthwrite" : "disabled",
+			"shader" : "workshop/3631583173/effects/chromatic_aberration"
+		}
+	]
+}

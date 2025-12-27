@@ -1,0 +1,12 @@
+{
+	"passes" : 
+	[
+		{
+			"blending" : "normal",
+			"cullmode" : "nocull",
+			"depthtest" : "disabled",
+			"depthwrite" : "disabled",
+			"shader" : "workshop/3577943202/effects/procedural_noise"
+		}
+	]
+}
